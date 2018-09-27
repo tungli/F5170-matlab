@@ -7,3 +7,5 @@ I created this repository to gradually correct typos and errors in this material
 You can download the pdf material here:
  * [English version](https://github.com/tungli/F5170-matlab/raw/master/MatlabSkriptaEN.pdf)
  * [Czech version](https://github.com/tungli/F5170-matlab/raw/master/MatlabSkriptaCZ.pdf)
+
+You can find the data and Matlab files you need in the [scripts directory](https://github.com/tungli/F5170-matlab/tree/master/scripts).
